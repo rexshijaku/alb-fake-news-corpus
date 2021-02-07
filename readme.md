@@ -10,6 +10,8 @@ In this repository you may find following informations :
    - ``true`` folder: it contains the collected true news;
    - ``fake-meta-information`` folder: it contains the metadata information of each fake news;
    - ``true-meta-information`` folder: it contains the metadata information of each true news;
+   - ``fake-pos`` folder: it contains the POS tagged fake news;
+   - ``true-pos`` folder: it contains the POS tagged true news;
 
    The files in the fake and true metadata information folders follow the following model (line by line):
 
@@ -34,4 +36,4 @@ In this repository you may find following informations :
 
    To find the aligned true and fake news pairs is very simple, as they are equally numbered/named inside their folders.
 
-Finally, this corpus is used in our work ``Albanian fake news detection`` which is currently under review on ``Transactions on Asian Language Information Processing``
+Finally, this corpus is used in our work ``Albanian fake news detection`` which is currently under review on ``The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)``
