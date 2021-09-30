@@ -1,4 +1,4 @@
-# AlbFakeNewsCorpus
+# Albanian Fake News Corpus
 
 Hello! Thank you for using our corpus!
 
