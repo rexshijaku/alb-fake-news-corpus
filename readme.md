@@ -36,4 +36,4 @@ In this repository you may find following informations :
 
    To find the aligned true and fake news pairs is very simple, as they are equally numbered/named inside their folders.
 
-Finally, this corpus is used in our work ``Albanian fake news detection`` which is currently under review on ``The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)``
+Finally, this corpus is used in our work ``Albanian Fake News Detection`` which was published on ``The ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)`` and you may find it [here](https://dl.acm.org/doi/10.1145/3487288).
